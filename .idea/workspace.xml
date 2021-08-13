@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d234aa8c-dd79-4a2d-8201-7624a76d9781" name="Changes" comment="" />
+    <list default="true" id="d234aa8c-dd79-4a2d-8201-7624a76d9781" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex1.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_ex01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_ex10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex11.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_ex11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex12.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_ex12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_ex02.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex3.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_ex03.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex4.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_ex04.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex5.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_ex05.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex6.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_ex06.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex7.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_ex07.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex8.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_ex08.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex9.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_ex09.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,11 +57,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628838718651</updated>
-      <workItem from="1628838720386" duration="3106000" />
+      <workItem from="1628838720386" duration="3212000" />
+      <workItem from="1628842421355" duration="417000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
