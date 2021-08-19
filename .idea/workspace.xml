@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d234aa8c-dd79-4a2d-8201-7624a76d9781" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Week03/CSS07/._contact.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS07/._home.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS07/._services.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS07/._trilliumbanner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS07/._trilliumbg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS07/._trilliumfoot.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS07/._trilliumgradient.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS07/contact.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS07/home.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS07/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS07/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS07/services.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS07/trilliumbanner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS07/trilliumbg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS07/trilliumfoot.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS07/trilliumgradient.png" afterDir="false" />
+    <list default="true" id="d234aa8c-dd79-4a2d-8201-7624a76d9781" name="Changes" comment="Week03">
+      <change afterPath="$PROJECT_DIR$/Week03/CSS08/._contact.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS08/._home.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS08/._services.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS08/._trilliumbanner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS08/._trilliumbg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS08/._trilliumfoot.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS08/._trilliumgradient.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS08/contact.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS08/home.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS08/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS08/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS08/services.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS08/trilliumbanner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS08/trilliumbg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS08/trilliumfoot.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS08/trilliumgradient.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS09/CSS09.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week03/CSS06/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week03/CSS06/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week03/CSS06/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week03/CSS06/index2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +45,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -70,7 +70,7 @@
       <workItem from="1628838720386" duration="3212000" />
       <workItem from="1628842421355" duration="417000" />
       <workItem from="1629344325137" duration="1040000" />
-      <workItem from="1629345378767" duration="481000" />
+      <workItem from="1629345378767" duration="3217000" />
     </task>
     <servers />
   </component>
@@ -88,5 +88,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Week03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week03" />
   </component>
 </project>
