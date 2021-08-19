@@ -3,18 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d234aa8c-dd79-4a2d-8201-7624a76d9781" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex1.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_ex01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex10.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_ex10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex11.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_ex11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex12.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_ex12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex2.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_ex02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex3.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_ex03.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex4.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_ex04.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex5.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_ex05.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex6.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_ex06.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex7.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_ex07.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex8.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_ex08.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex9.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_ex09.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +20,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1wf9LK1W54gt7BFgglqsZ3T6PDs" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,6 +50,7 @@
       <updated>1628838718651</updated>
       <workItem from="1628838720386" duration="3212000" />
       <workItem from="1628842421355" duration="417000" />
+      <workItem from="1629344325137" duration="975000" />
     </task>
     <servers />
   </component>
@@ -75,5 +67,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
