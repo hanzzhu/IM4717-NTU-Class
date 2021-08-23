@@ -2,21 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d234aa8c-dd79-4a2d-8201-7624a76d9781" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Week03/CSS07/trillium.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS10/two_column/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS10/two_column/._lighthouseisland.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS10/two_column/lighthouseisland.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS10/two_column/twocolumn1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS10/two_column/twocolumn2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS10/two_column/twocolumn3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS10/two_column/twocolumn4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS10/two_column/vert/._lighthouseisland.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS10/two_column/vert/._lighthouselogo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS10/two_column/vert/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS10/two_column/vert/lighthouseisland.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS10/two_column/vert/lighthouselogo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/TAB01/TAB01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/TAB02/TAB02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/TAB03/TAB03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/TAB04/TAB04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/TAB05/TAB05.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week03/CSS07/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week03/CSS07/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week03/CSS08/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week03/CSS08/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week03/CSS10/two_column/vert/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week03/CSS10/two_column/vert/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week03/trillium.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Week03/CSS08/trillium.gif" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +41,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Week03/CSS07" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Week03" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hzhu009\Documents\GitHub\IM4717-NTU-Class\Week03" />
+      <recent name="C:\Users\hzhu009\Documents\GitHub\IM4717-NTU-Class\Week03\CSS08" />
       <recent name="C:\Users\hzhu009\Documents\GitHub\IM4717-NTU-Class\Week03\CSS07" />
       <recent name="D:\IM4717\Codes\IM4717-NTU-Class\Week03" />
       <recent name="C:\Users\hzhu009\Documents\GitHub\IM4717-NTU-Class" />
