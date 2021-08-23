@@ -1,25 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d234aa8c-dd79-4a2d-8201-7624a76d9781" name="Changes" comment="Week03">
-      <change afterPath="$PROJECT_DIR$/Week03/CSS08/._contact.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS08/._home.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS08/._services.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS08/._trilliumbanner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS08/._trilliumbg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS08/._trilliumfoot.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS08/._trilliumgradient.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS08/contact.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS08/home.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS08/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS08/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS08/services.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS08/trilliumbanner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS08/trilliumbg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS08/trilliumfoot.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS08/trilliumgradient.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week03/CSS09/CSS09.html" afterDir="false" />
+    <list default="true" id="d234aa8c-dd79-4a2d-8201-7624a76d9781" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Week03/CSS07/trillium.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS10/two_column/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS10/two_column/._lighthouseisland.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS10/two_column/lighthouseisland.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS10/two_column/twocolumn1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS10/two_column/twocolumn2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS10/two_column/twocolumn3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS10/two_column/twocolumn4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS10/two_column/vert/._lighthouseisland.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS10/two_column/vert/._lighthouselogo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS10/two_column/vert/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS10/two_column/vert/lighthouseisland.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week03/CSS10/two_column/vert/lighthouselogo.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week03/CSS07/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week03/CSS07/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +47,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Week03" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Week03/CSS07" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hzhu009\Documents\GitHub\IM4717-NTU-Class\Week03\CSS07" />
       <recent name="D:\IM4717\Codes\IM4717-NTU-Class\Week03" />
       <recent name="C:\Users\hzhu009\Documents\GitHub\IM4717-NTU-Class" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hzhu009\Documents\GitHub\IM4717-NTU-Class\Week03\CSS10" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
