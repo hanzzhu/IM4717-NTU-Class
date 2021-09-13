@@ -168,7 +168,7 @@ form label {
 
 
 .jobs_form input,textarea{
-    display: block;
+    display: inline-block;
     float: left;
     margin: 10px 16px 10px;
 }
