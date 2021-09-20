@@ -35,12 +35,12 @@
                 <label for="name">
                     *Name:
                 </label>
-                <input type="text" name="name" id="name" placeholder="Enter your name here" required onblur="validateName()">
+                <input type="text" name="name" id="name" placeholder="Enter your name here" required onchange="validateName()">
 
                 <label for="email">
                     *E-mail:
                 </label>
-                <input type="text" name="email" id="email" placeholder="Enter your Email-ID here" required>
+                <input type="text" name="email" id="email" placeholder="Enter your Email-ID here" required onchange ="validateEmail()">
 
                 <label for="date">
                     Start Date:
@@ -64,6 +64,8 @@
             <i><a href="mailto:hanzhuo@zhu.com">hanzhuo@zhu.com</a></i>
         </small>
     </footer>
+
+    <script type="text/javascript" src="js/jobs.js"></script>
 </div>
 </body>
 </html>
