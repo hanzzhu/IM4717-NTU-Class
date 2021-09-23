@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d234aa8c-dd79-4a2d-8201-7624a76d9781" name="Changes" comment="Week03">
-      <change afterPath="$PROJECT_DIR$/Week04/Case Study part 2/Sitemap for case study part1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week04/Case Study part 2/img/coffee.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week04/Case Study part 2/img/header.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week04/Case Study part 2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week04/Case Study part 2/jobs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week04/Case Study part 2/menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week04/Case Study part 2/music.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week04/Case Study part 2/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week04/HTML_Forms/Slide 33 form4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week04/HTML_Forms/Slide 35 formcss.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week04/HTML_Forms/Slide 36 email.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week04/HTML_Forms/Slide 37 date.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week04/HTML_Forms/Slide 38 time.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week04/HTML_Forms/all_forms.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week04/HTML_Forms/show_get.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week04/HTML_Forms/show_post.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week04/Case Study part 2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week04/Case Study part 2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +64,7 @@
       <workItem from="1629344325137" duration="1040000" />
       <workItem from="1629345378767" duration="3217000" />
       <workItem from="1630227667423" duration="9508000" />
+      <workItem from="1632421173217" duration="4000" />
     </task>
     <servers />
   </component>
