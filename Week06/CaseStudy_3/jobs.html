@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Jobs</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div id="wrapper">
+    <header>
+        <img src="img/header.png">
+    </header>
+
+    <div class="left_column">
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li> &nbsp;
+                <li><a href="menu.html">Menu</a></li> &nbsp;
+                <li><a href="music.html">Music</a></li> &nbsp;
+                <li><a href="jobs.html">Jobs</a></li>
+            </ul>
+        </nav>
+    </div>
+
+    <div class="right_column">
+        <div class="jobs">
+            <h1>Jobs at JavaJam</h1>
+            <div class="jobs_text">
+                <p>
+                    Want to work at JavaJam? Fill out the form below to start your
+                    application. Required fields are marked with an asterisk *
+                </p>
+            </div>
+            <form class="jobs_form" action="show_get.php" method="get">
+                <label for="name">
+                    *Name:
+                </label>
+                <input type="text" name="name" id="name" placeholder="Enter your name here" required onchange="validateName()">
+
+                <label for="email">
+                    *E-mail:
+                </label>
+                <input type="text" name="email" id="email" placeholder="Enter your Email-ID here" required onchange ="validateEmail()">
+
+                <label for="date">
+                    Start Date:
+                </label>
+                <input type="date" name="date" id="date"><br>
+
+                <label for="experience">*Experience:</label>
+                <textarea name="experience" id="experience" rows="5" cols="40" required placeholder="Enter your past experience here"></textarea><br>
+
+                <input type="reset" value="clear"><br>
+                <input type="submit" onclick="validateForm()" value="Apply Now">
+                <button type="submit" onclick="validateForm()">Apply Now</button>
+            </form>
+        </div>
+    </div>
+
+    <footer>
+        <small>
+            <i>Copyright &copy; 2014 JavaJam Coffeee House</i>
+            <br>
+            <i><a href="mailto:hanzhuo@zhu.com">hanzhuo@zhu.com</a></i>
+        </small>
+    </footer>
+
+    <script type="text/javascript" src="js/jobs.js"></script>
+</div>
+</body>
+</html>

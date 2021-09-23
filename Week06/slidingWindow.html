@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var string = "assd"
+    const s = string.split("")
+    function fun(s){
+        var cur_len = 0;
+        var max_len = 0;
+        var lookup = [];
+        var left = 0;
+        for(var i=0; i<s.length; i++){
+            cur_len += 1
+            while (s.includes(s[i])){
+                cur_len -= 1
+                lookup.splice(s[left])
+                left+=1
+            }
+            lookup.push(s[i])
+        }
+
+    }
+    fun(s)
+</script>
+</body>
+</html>

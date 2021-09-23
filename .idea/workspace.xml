@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d234aa8c-dd79-4a2d-8201-7624a76d9781" name="Changes" comment="Week03">
-      <change beforePath="$PROJECT_DIR$/Week04/Case Study part 2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week04/Case Study part 2/index.html" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +12,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -34,17 +35,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Week04/Case Study part 2/img" />
+    <property name="last_opened_file_path" value="Z:/public_html/Week07 - Test" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\GitHub Projects\IM4717-NTU-Class\Week04\Case Study part 2\img" />
-      <recent name="C:\GitHub Projects\IM4717-NTU-Class\Week04" />
-      <recent name="C:\GitHub Projects\IM4717-NTU-Class\Week04\Case Study part 2" />
-      <recent name="C:\Users\hzhu009\Documents\GitHub\IM4717-NTU-Class\Week03" />
-      <recent name="C:\Users\hzhu009\Documents\GitHub\IM4717-NTU-Class\Week03\CSS08" />
+      <recent name="C:\Users\hzhu009\Documents\GitHub\IM4717-NTU-Class\Week07" />
+      <recent name="C:\Users\hzhu009\Documents\GitHub\IM4717-NTU-Class\Week06" />
+      <recent name="C:\Users\hzhu009\Documents\GitHub\IM4717-NTU-Class\Week04\CaseStudy_2" />
+      <recent name="C:\Users\hzhu009\Documents\GitHub\IM4717-NTU-Class\Week04\Case Study part 2\img" />
+      <recent name="C:\Users\hzhu009\Documents\GitHub\IM4717-NTU-Class\Week04\Case Study part 2\music" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\GitHub Projects\IM4717-NTU-Class\Week04\Case Study part 2\img" />
@@ -64,7 +65,7 @@
       <workItem from="1629344325137" duration="1040000" />
       <workItem from="1629345378767" duration="3217000" />
       <workItem from="1630227667423" duration="9508000" />
-      <workItem from="1632421173217" duration="328000" />
+
     </task>
     <servers />
   </component>
