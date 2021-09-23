@@ -2,69 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d234aa8c-dd79-4a2d-8201-7624a76d9781" name="Changes" comment="Week03">
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/10_For_loop.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/11_Arrays.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/12_Associate_Arrays.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/13_Adding and modifying elements in array.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/14_array_with_loop.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/15_Foreach_array_loop.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/15aSort_arrays.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/16_functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/17_paramters_functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/18_Returnvalues.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/18a_Globalscope.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/18b_Localscope.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/18c_Globalkeyword.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/18dStatickeyword.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/19_Beginning_forms_POST.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/19_a_Beginning_forms_GET.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/19_b_Superglobal_PHP_Server.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/19_c_PHP_$Request.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/19_d_PHP_$POST.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/1a_Program_Php_1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/1b_first.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/20_Date_Function.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/21_Include_Function.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/24_Connecting_SQL_Server.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/25_Selecting_SQL_database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/26_testing_database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/2_basic Math.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/3_Constants.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/4_Datatype.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/4b_Strings_functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/5_IF_else.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/6_IF_elseif_else.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/7_switch_statement.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/8_while_loop.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/9_Do_loop.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/Loop_through_indexed_Array.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/testerpage.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/testerpage2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Class_Copy/testerpage_1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Examples/array1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Examples/array2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Examples/array_op.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Examples/constants.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Examples/date.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Examples/dir.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Examples/errorsuppress.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Examples/function.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Examples/hello.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Examples/mutiarray.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Examples/orderform.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Examples/orderform_get.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Examples/passbyref.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Examples/passbyval.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Examples/processorder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Examples/processorder_get.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Examples/quotation_marks.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Examples/reference.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Examples/return.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Examples/string_interpolation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Examples/superglobal.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week07/PHP_Examples/typecasting.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week06/CaseStudy_3/jobs.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week06/CaseStudy_3/jobs.html" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,10 +65,7 @@
       <workItem from="1629344325137" duration="1040000" />
       <workItem from="1629345378767" duration="3217000" />
       <workItem from="1630227667423" duration="9508000" />
-      <workItem from="1630297409324" duration="2824000" />
-      <workItem from="1630904897977" duration="3334000" />
-      <workItem from="1631510820404" duration="7507000" />
-      <workItem from="1632115429076" duration="1914000" />
+
     </task>
     <servers />
   </component>
