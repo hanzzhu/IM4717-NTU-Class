@@ -58,7 +58,7 @@ footer {
     float: left;
     background-color: #e8d8b5;
     width: 200px;
-    height: 420px;
+    height: 550px;
     font-size: 18px;
 }
 
@@ -101,6 +101,34 @@ a:visited{
 
 .menu_table p{
     font-size: 20px;
+}
+.menu_table .radio-button{
+    font-size: 20px;
+    font-weight: bold;
+}
+.menu_table .coffee-quantity{
+    font-size: 18px;
+    background-color: #cfb18a;
+    box-shadow: none;
+    border: solid #4d2412 1px;
+}
+.menu_table #cafe-au-lait-qty{
+    background-color: beige;
+}
+
+.menu_table .coffee-quantity{
+    width: 45px;
+    text-align: center;
+
+}
+
+.menu_table .subtotal{
+    width: 100px;
+    text-align: center;
+
+}
+.menu_table .input-quantity{
+    text-align: center;
 }
 
 h3{
@@ -172,4 +200,3 @@ form label {
     float: left;
     margin: 10px 16px 10px;
 }
-

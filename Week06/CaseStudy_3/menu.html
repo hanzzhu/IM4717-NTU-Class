@@ -38,8 +38,18 @@
 						<td>
 							<p>
 								Regular house blend, decaffeinated coffee, or flavor of the day.<br>
-								<b>Endless cup $2.00</b>
 							</p>
+							<p class="radio-button">
+								<input type="radio" name="just-java" value="2" onchange="selectedMenu()" checked/>
+								Endless Cup $2.00
+							</p>
+						</td>
+						<td class="input-quantity">
+							<input class="coffee-quantity" type="number" id="just-java-qty" value=0  onchange="selectedMenu()"/>
+						</td>
+						<td>
+							<p class="subtotal" id="just-java-subtotal">Subtotal: $0 </p>
+
 						</td>
 					</tr>
 
@@ -50,8 +60,21 @@
 						<td>
 							<p>
 								House blended coffee infused into a smooth, steamed milk.<br>
-								<b>Singe $2.00 Double $3.00</b>
 							</p>
+
+							<p class="radio-button">
+								<input type="radio" name="cafe-au-lait" value="2" onchange="selectedMenu()" checked/>
+								Single $2.00
+								<input type="radio" name="cafe-au-lait" value="3"  onchange="selectedMenu()"/>
+								Double $3.00
+							</p>
+						</td>
+
+						<td class="input-quantity">
+							<input class="coffee-quantity" type="number" id="cafe-au-lait-qty" value=0  onchange="selectedMenu()"/>
+						</td>
+						<td>
+							<p class="subtotal" id="cafe-au-lait-subtotal">Subtotal: $0 </p>
 						</td>
 					</tr>
 
@@ -63,10 +86,36 @@
 							<p>
 								Sweetened espresso blended with icy-cold milk and served in
 								a chilled glass.<br>
-								<b>Singe $4.75 Double $5.75</b>
+							</p>
+							<p class="radio-button">
+								<input type="radio" name="iced-cappuccino" value="4.75" onchange="selectedMenu()" checked/>
+								Single $4.75
+								<input type="radio"  name="iced-cappuccino" value="5.75" onchange="selectedMenu()"/>
+								Double $5.75
 							</p>
 						</td>
+						<td class="input-quantity">
+							<input class="coffee-quantity" type="number" id="cappuccino-qty" value=0  onchange="selectedMenu()"/>
+						</td>
+						<td>
+							<p class="subtotal" id="cappuccino-subtotal">Subtotal: $0 </p>
+						</td>
 					</tr>
+					<tr>
+						<td>
+
+						</td>
+						<td>
+
+						</td>
+						<td>
+							<p>Total Price:</p>
+						</td>
+						<td>
+							<p class="subtotal" id="total">$0 </p>
+						</td>
+					</tr>
+
 
 
 				</table>
@@ -81,6 +130,7 @@
 			<i><a href="mailto:hanzhuo@zhu.com">hanzhuo@zhu.com</a></i>
 		</small>
 	</footer>
+	<script type="text/javascript" src="js/menu.js"></script>
 </div>
 </body>
 </html>
