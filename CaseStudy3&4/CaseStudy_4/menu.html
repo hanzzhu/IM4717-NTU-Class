@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>
+		JavaJam Coffee House
+	</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+<div id="wrapper">
+	<header>
+		<img src="img/header.png">
+	</header>
+
+	<div class="left_column">
+		<nav>
+			<ul>
+				<li><a href="index.html">Home</a></li> &nbsp;
+				<li><a href="menu.html">Menu</a></li> &nbsp;
+				<li><a href="music.html">Music</a></li> &nbsp;
+				<li><a href="jobs.html">Jobs</a></li>&nbsp;
+				<li><a href="update.html">Update Menu</a></li>&nbsp;
+				<li><a href="report.html">Daily Sales Report</a></li>&nbsp;
+			</ul>
+		</nav>
+	</div>
+
+	<div class="right_column">
+		<div class="menu">
+			<h1>Coffee at JavaJam</h1>
+			<div class="menu_table">
+				<table>
+
+					<tr>
+						<td>
+							<h3>Just Java</h3>
+						</td>
+						<td>
+							<p>
+								Regular house blend, decaffeinated coffee, or flavor of the day.<br>
+							</p>
+							<p class="radio-button">
+								<input type="radio" name="just-java" value="2" onchange="selectedMenu()" checked/>
+								Endless Cup $2.00
+							</p>
+						</td>
+						<td class="input-quantity">
+							<input class="coffee-quantity" type="number" id="just-java-qty" value=0  onchange="selectedMenu()"/>
+						</td>
+						<td>
+							<p class="subtotal" id="just-java-subtotal">Subtotal: $0 </p>
+
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							<h3>Cafe au Lait</h3>
+						</td>
+						<td>
+							<p>
+								House blended coffee infused into a smooth, steamed milk.<br>
+							</p>
+
+							<p class="radio-button">
+								<input type="radio" name="cafe-au-lait" value="2" onchange="selectedMenu()" checked/>
+								Single $2.00
+								<input type="radio" name="cafe-au-lait" value="3"  onchange="selectedMenu()"/>
+								Double $3.00
+							</p>
+						</td>
+
+						<td class="input-quantity">
+							<input class="coffee-quantity" type="number" id="cafe-au-lait-qty" value=0  onchange="selectedMenu()"/>
+						</td>
+						<td>
+							<p class="subtotal" id="cafe-au-lait-subtotal">Subtotal: $0 </p>
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							<h3>Iced Cappuccino</h3>
+						</td>
+						<td>
+							<p>
+								Sweetened espresso blended with icy-cold milk and served in
+								a chilled glass.<br>
+							</p>
+							<p class="radio-button">
+								<input type="radio" name="iced-cappuccino" value="4.75" onchange="selectedMenu()" checked/>
+								Single $4.75
+								<input type="radio"  name="iced-cappuccino" value="5.75" onchange="selectedMenu()"/>
+								Double $5.75
+							</p>
+						</td>
+						<td class="input-quantity">
+							<input class="coffee-quantity" type="number" id="cappuccino-qty" value=0  onchange="selectedMenu()"/>
+						</td>
+						<td>
+							<p class="subtotal" id="cappuccino-subtotal">Subtotal: $0 </p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+
+						</td>
+						<td>
+
+						</td>
+						<td>
+							<p>Total Price:</p>
+						</td>
+						<td>
+							<p class="subtotal" id="total">$0 </p>
+						</td>
+					</tr>
+
+
+
+				</table>
+			</div>
+		</div>
+	</div>
+
+	<footer>
+		<small>
+			<i>Copyright &copy; 2014 JavaJam Coffeee House</i>
+			<br>
+			<i><a href="mailto:hanzhuo@zhu.com">hanzhuo@zhu.com</a></i>
+		</small>
+	</footer>
+	<script type="text/javascript" src="js/menu.js"></script>
+</div>
+</body>
+</html>
