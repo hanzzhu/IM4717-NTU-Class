@@ -82,7 +82,7 @@
 
     <div class="right_column">
         <div class="menu">
-            <h1>Coffee at JavaJam</h1>
+            <h1>Tick to update the coffee prices</h1>
             <form id="my_form" action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST" onsubmit="">
             <div class="update_table">
                 <table>

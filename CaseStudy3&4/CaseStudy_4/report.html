@@ -1,12 +1,71 @@
 <!DOCTYPE html>
+
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
+    <title>
+        JavaJam Coffee House
+    </title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
+
 <body>
-<div>
-    Report
+
+
+<div id="wrapper">
+    <header>
+        <img src="img/header.png">
+    </header>
+
+    <div class="left_column">
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li> &nbsp;
+                <li><a href="menu.html">Menu</a></li> &nbsp;
+                <li><a href="music.html">Music</a></li> &nbsp;
+                <li><a href="jobs.html">Jobs</a></li>&nbsp;
+                <li><a href="update.html">Update Menu</a></li>&nbsp;
+                <li><a href="report.html">Daily Sales Report</a></li>&nbsp;
+            </ul>
+        </nav>
+    </div>
+
+    <div class="right_column">
+        <div class="report-menu">
+            <h1>Click to generate daily sales report</h1>
+            <table  class="report-menu-table">
+                <tr>
+                    <td>
+                        <button onclick="window.location.href='sales.php'">Generate</button>
+                    </td>
+                    <td>
+                        <h3>Total Dollar Sales by Products</h3>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <button onclick="window.location.href='rank.php'">Generate</button>
+                    </td>
+                    <td>
+                        <h3>Sales Quantities by Product Categories</h3>
+                    </td>
+                </tr>
+
+            </table>
+
+        </div>
+    </div>
+
+    <footer>
+        <small>
+            <i>Copyright &copy; 2014 JavaJam Coffeee House</i>
+            <br>
+            <i><a href="mailto:hanzhuo@zhu.com">hanzhuo@zhu.com</a></i>
+        </small>
+    </footer>
+    <script type="text/javascript" src="js/menu.js"></script>
 </div>
 </body>
 </html>
