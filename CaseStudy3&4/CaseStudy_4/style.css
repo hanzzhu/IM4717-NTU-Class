@@ -42,7 +42,7 @@ footer {
 #wrapper{
     width: 80%;
     background-color: beige;
-    margin: 50px auto auto;
+    margin: auto;
     min-width:800px;
     max-width: 1280px;
     -webkit-box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.75);

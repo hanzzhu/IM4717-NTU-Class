@@ -2,12 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d234aa8c-dd79-4a2d-8201-7624a76d9781" name="Changes" comment="Week03">
+      <change afterPath="$PROJECT_DIR$/CaseStudy3&amp;4/exam.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudy3&amp;4/exam.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudy3&amp;4/examC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudy3&amp;4/examC.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudy3&amp;4/CaseStudy_4/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy3&amp;4/CaseStudy_4/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week09/cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/Week09/cart.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,7 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IM4717_Final_Project" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -71,6 +80,16 @@
       <workItem from="1634540830345" duration="2768000" />
       <workItem from="1634906896791" duration="233000" />
       <workItem from="1634908379001" duration="1161000" />
+      <workItem from="1635097717332" duration="2388000" />
+      <workItem from="1635250623187" duration="1006000" />
+      <workItem from="1635497288759" duration="1884000" />
+      <workItem from="1635597382617" duration="2570000" />
+      <workItem from="1635653247720" duration="3232000" />
+      <workItem from="1636276515006" duration="6580000" />
+      <workItem from="1636367441514" duration="77000" />
+      <workItem from="1636451084232" duration="143000" />
+      <workItem from="1636508756234" duration="1219000" />
+      <workItem from="1637695981118" duration="1777000" />
     </task>
     <servers />
   </component>

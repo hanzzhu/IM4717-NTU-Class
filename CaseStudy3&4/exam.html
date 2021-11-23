@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>exam</title>
+    <link rel="stylesheet" type="text/css" href="exam.css">
+</head>
+<body>
+<div class="wrapper">
+    <!-- Write your comments here -->
+    <div class="banner">
+
+            <a href="home.html"><img class="banner1" src="CaseStudy_3/img/album1.jpg" alt=""></a>
+
+            <a href="promotion.html"><img class="banner2" src="CaseStudy_3/img/album2.jpg"></a>
+
+
+    </div>
+    <nav>
+        <ul class="navbar">
+            <li><a href="index.html">Home</a> </li>
+            <li><a href="promotions.html">Promotions</a> </li>
+            <li><a href="map.html">Location Maps</a> </li>
+            <li><a href="faq.html">FAQs</a> </li>
+            <li><a href="contact.html">Contact Us</a> </li>
+
+            <li class="misc"><a href="logout.html">Logout</a></li>
+            <li class="misc"><a href="cart.html">Cart Icon  |</a></li>
+        </ul>
+
+    </nav>
+    <div class="main_content">
+        <div class="left_column">
+
+            <form class="search_form" action="bike_search.php" method="get">
+                <div class="upper_form"><label for="location">
+                    Location
+                </label><br>
+                    <select name="location" id="location">
+                        <option value="eastcoastpark">East Coast Park</option>
+                        <option value="other1">Other Places 1</option>
+                        <option value="other2">Other Places 2</option>
+                        <option value="other3">Other Places 3</option>
+                    </select><br/>
+
+                    <label for="date">
+                        Date:
+                    </label><br>
+                    <input type="date" name="date" id="date" onchange="validateStartDate()"><br>
+
+                    <label for="pickuptime"><br>
+                        Pick up time
+                    </label><br>
+                    <input type="time" id="pickuptime"
+                           min="08:00" max="19:00" step="1800"><br>
+
+                    <label for="returntime"><br>
+                        Pick up time
+                    </label><br>
+                    <input type="time" id="returntime"
+                           min="09:00" max="20:00" step="1800"><br>
+
+                    <label for="type"><br>
+                        Bike Type
+                    </label><br>
+                    <select name="type" id="type">
+                        <option value="Children">Children</option>
+                        <option value="Adult">Adult</option>
+                        <option value="Any">Any</option>
+                    </select><br/><br/>
+
+                    <input type="submit" value="SEARCH"><br>
+                    <input type="reset" value="CLEAR"><br>
+                </div>
+
+                <div class="lower_form">
+                    <h3>Filter By...</h3>
+
+                    <select name="rental" id="rental">
+                        <option value="eastcoastpark">$5</option>
+                        <option value="other1">$6</option>
+
+                    </select><br/>
+
+                    <input type="radio" id="age1" name="age" value="Option1"> Option1
+
+                    <input type="radio" id="age2" name="age" value="Option2">Option2
+
+                    <input type="radio" id="age3" name="age" value="Option3">Option3<br/>
+
+                </div>
+
+
+            </form>
+
+
+        </div>
+        <div class="right_column">
+            <div class="grid-container">
+                <div class="grid-item"><a href="number1details.html"><img src="CaseStudy_3/img/icon.png"></a> This is number 1 description<br/><a href="number1details.html">View More</a></div>
+                <div class="grid-item"><img src="CaseStudy_3/img/icon.png">This is number 1</div>
+                <div class="grid-item"><img src="CaseStudy_3/img/icon.png">This is number 1</div>
+                <div class="grid-item"><img src="CaseStudy_3/img/icon.png">This is number 1</div>
+                <div class="grid-item"><img src="CaseStudy_3/img/icon.png">This is number 1</div>
+                <div class="grid-item"><img src="CaseStudy_3/img/icon.png">This is number 1</div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        Copy Right &copy; 2020 GoParking@Parks Pte Ltd. All rights reserved.
+    </footer>
+</div>
+</body>
+</html>

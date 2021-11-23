@@ -1,0 +1,88 @@
+body{
+    font-family: Verdana,Arial, sans-serif;
+    color: #0066cc;
+    background-color: white;
+}
+
+.wrapper{
+    width: 1030px;
+    margin: auto;
+    border: solid 5px black;
+}
+
+.banner{
+    height: 110px;
+    background-color: #0066cc;
+}
+.banner1{
+    float: left;
+    width: 200px;
+    height: 100px;
+    padding: 5px;
+}
+.banner2{
+    float: left;
+    width: 800px;
+    height: 100px;
+    padding: 5px;
+}
+nav ul{
+    list-style-type: none;
+    overflow: hidden;
+}
+.navbar li{
+    padding: 5px;
+    float: left;
+}
+
+nav li a{
+    text-decoration: none;
+}
+.navbar .misc{
+    padding: 5px;
+    float: right;
+}
+.main_content{
+    display: flex;
+}
+.left_column{
+    width: 350px;
+    padding: 10px;
+    float: left;
+}
+.upper_form{
+    margin: auto;
+    border: solid 1px black;
+    padding: 10px;
+}
+.lower_form{
+    margin: auto;
+    border: solid 1px black;
+    padding: 10px;
+}
+.right_column{
+    width: 640px;
+    padding: 10px;
+    float: left;
+    border: solid 1px;
+    text-align: center;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+}
+.grid-item img{
+    height: 170px;
+    width: 200px;
+}
+.left_column label, .right_column a{
+    background-color: #99DDFF;
+}
+footer{
+    font-size: 9px;
+    color: white;
+    text-align: center;
+    background-color: #0066cc;
+    padding: 5px;
+}

@@ -3,12 +3,21 @@ session_start();
 if (!isset($_SESSION['cart'])){
 	$_SESSION['cart'] = array();
 }
+
+if (isset($_GET['buy'])) {
+$_SESSION['cart'][] = $_GET['buy'];
+
+//refresh page
+header('location: ' . $_SERVER['PHP_SELF']. '?' . SID);
+
 if (isset($_GET['empty'])) {
 	unset($_SESSION['cart']);
 	header('location: ' . $_SERVER['PHP_SELF']);
 	exit();
 }
+
 ?>
+
 <html>
 <head>
 <title>Shopping Cart</title>
@@ -23,6 +32,25 @@ $items = array(
 	'Ending PHP4 (O\'Wroxey Press)');
 $prices = array(24.95, 1000, 19.99, 34.95);
 ?>
+<nav>
+    <ul class="navbar">
+        <li><a href="index.html">Home</a> </li>
+        <li><a href="promotions.html">Promotions</a> </li>
+        <li><a href="map.html">Location Maps</a> </li>
+        <li><a href="faq.html">FAQs</a> </li>
+        <li><a href="contact.html">Contact Us</a> </li>
+        <?php
+        if ($_SESSION['valid_user']){
+            echo '  <li class= "misc"><a href="logout.html">Logout</a></li>
+                    <li class="misc"><a href="cart.html">Cart Icon ['.count($_SESSION['cart']).'] |</a></li>';
+        }else{
+            echo '  <li class= "misc"><a href="Login.html">Login</a></li>';
+        };
+        ?>
+        <li class="misc"><a href="logout.html">Logout</a></li>
+        <li class="misc"><a href="cart.html">Cart Icon  |</a></li>
+    </ul>
+</nav>
 <table border="1">
 	<thead>
 	<tr>
